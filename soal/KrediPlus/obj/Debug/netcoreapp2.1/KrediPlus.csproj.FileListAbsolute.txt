@@ -1,0 +1,11 @@
+E:\test krediplus\soal\KrediPlus\bin\Debug\netcoreapp2.1\KrediPlus.deps.json
+E:\test krediplus\soal\KrediPlus\bin\Debug\netcoreapp2.1\KrediPlus.runtimeconfig.json
+E:\test krediplus\soal\KrediPlus\bin\Debug\netcoreapp2.1\KrediPlus.runtimeconfig.dev.json
+E:\test krediplus\soal\KrediPlus\bin\Debug\netcoreapp2.1\KrediPlus.dll
+E:\test krediplus\soal\KrediPlus\bin\Debug\netcoreapp2.1\KrediPlus.pdb
+E:\test krediplus\soal\KrediPlus\obj\Debug\netcoreapp2.1\KrediPlus.csprojAssemblyReference.cache
+E:\test krediplus\soal\KrediPlus\obj\Debug\netcoreapp2.1\KrediPlus.csproj.CoreCompileInputs.cache
+E:\test krediplus\soal\KrediPlus\obj\Debug\netcoreapp2.1\KrediPlus.AssemblyInfoInputs.cache
+E:\test krediplus\soal\KrediPlus\obj\Debug\netcoreapp2.1\KrediPlus.AssemblyInfo.cs
+E:\test krediplus\soal\KrediPlus\obj\Debug\netcoreapp2.1\KrediPlus.dll
+E:\test krediplus\soal\KrediPlus\obj\Debug\netcoreapp2.1\KrediPlus.pdb
